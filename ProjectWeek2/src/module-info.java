@@ -5,5 +5,5 @@
  * @author mrtom
  *
  */
-module w2d4 {
+module ProjectWeek2 {
 }
